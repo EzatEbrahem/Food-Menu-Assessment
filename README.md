@@ -101,7 +101,7 @@ Recast_Designs_Assessment
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/EzatEbrahem/Food-Menu-Assessment.git]
+git clone https://github.com/EzatEbrahem/Food-Menu-Assessment.git
 ```
 
 2. Get dependencies:
@@ -116,4 +116,5 @@ flutter pub get
 flutter run
 
 ```
+
 

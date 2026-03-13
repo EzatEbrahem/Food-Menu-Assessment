@@ -10,14 +10,14 @@ The project demonstrates advanced UI/UX techniques including Glassmorphism, Maso
 ---
 
 ## 🏗️ Project Structure
-
+```
 Recast_Designs_Assessment
 │
 ├── lib/core          # Presentation Layer (Constants, Themes, Utils, Errors)
 ├── lib/data          # Data Access Layer (Models, Repositories Implementation, Local Sources)
 ├── lib/domain        # Core Layer (Entities, Use Cases, Repository Interfaces)
 └── lib/presentation  # Presentation Layer (BLoC, Screens, Components)
-
+```
 ---
 
 ## 🧠 Architecture & Design
@@ -82,17 +82,17 @@ Recast_Designs_Assessment
 
 ## 📸 Screenshots
 
-### 🔹 Home Screen 
-![Home Screen](assets/screenshots/ScreenShot1.jpg) ![Home Screen](assets/screenshots/Screenshot2.jpg) ![Home Screen](assets/screenshots/Screenshot3.jpg)
+### 🔹 Mobile Preview
 
-### 🔹 Food Item Details
-![Details Screen](assets/screenshots/Screenshot4.jpg)
+| Home Screen | Home Screen (Scrolled) | Home Screen (End) |
+|:---:|:---:|:---:|
+| <img src="assets/screenshots/ScreenShot1.jpg" width="250"> | <img src="assets/screenshots/Screenshot2.jpg" width="250"> | <img src="assets/screenshots/Screenshot3.jpg" width="250"> |
 
-### 🔹 Logic: Read More & Show Less
-![UX Logic](assets/screenshots/Screenshot5.jpg)
+<br>
 
-### 🔹 Success: Added to Order
-![Added To Order Success](assets/screenshots/Screenshot6.jpg)
+| Item Details | Read More Logic | Added To Order Success |
+|:---:|:---:|:---:|
+| <img src="assets/screenshots/Screenshot4.jpg" width="250"> | <img src="assets/screenshots/Screenshot5.jpg" width="250"> | <img src="assets/screenshots/Screenshot6.jpg" width="250"> |
 
 ---
 
@@ -116,3 +116,4 @@ flutter pub get
 flutter run
 
 ```
+

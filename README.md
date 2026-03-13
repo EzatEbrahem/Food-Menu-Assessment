@@ -82,17 +82,17 @@ Recast_Designs_Assessment
 
 ## 📸 Screenshots
 
-### 🔹 Home Screen – Masonry Grid
-![Home Screen](assets/screenshots/ScreenShot1.jpg) ![Home Screen](assets/screenshots/ScreenShot2.jpg) ![Home Screen](assets/screenshots/ScreenShot3.jpg)
+### 🔹 Home Screen 
+![Home Screen](assets/screenshots/ScreenShot1.jpg) ![Home Screen](assets/screenshots/Screenshot2.jpg) ![Home Screen](assets/screenshots/Screenshot3.jpg)
 
 ### 🔹 Food Item Details
-![Details Screen](assets/screenshots/ScreenShot4.jpg)
+![Details Screen](assets/screenshots/Screenshot4.jpg)
 
 ### 🔹 Logic: Read More & Show Less
-![UX Logic](assets/screenshots/ScreenShot5.jpg)
+![UX Logic](assets/screenshots/Screenshot5.jpg)
 
 ### 🔹 Success: Added to Order
-![Added To Order Success](assets/screenshots/ScreenShot6.jpg)
+![Added To Order Success](assets/screenshots/Screenshot6.jpg)
 
 ---
 
@@ -114,4 +114,5 @@ flutter pub get
 ```bash
 
 flutter run
+
 ```

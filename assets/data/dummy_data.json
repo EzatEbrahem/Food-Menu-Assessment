@@ -1,0 +1,87 @@
+{
+  "food_menu": [
+    {
+      "id": "1",
+      "name": "Tenderloin Steak With Grilled Vegetables & Fries",
+      "image": "assets/images/item1.jpg",
+      "price": 49.95,
+      "description": "Premium grilled tenderloin served witmium grilled tenderloin served with seasonal vegetables and mushroom sauce.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. \nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+      "type": "Main Course",
+      "isTrending": true,
+      "preparation": [
+        { "label": "Time", "value": "20 Minutes" },
+        { "label": "Serving Size", "value": 1 }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "25 Piece Sushi Boat with Three Sides",
+      "image": "assets/images/item2.jpg",
+      "price": 80.9,
+      "description": "A variety of fresh nigiri and maki rolls with ginger and wasabi.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. \nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+      "type": "Japanese",
+      "isTrending": false,
+      "preparation": [
+        { "label": "Time", "value": "30 Minutes" },
+        { "label": "Serving Size", "value": 2 }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Shared Meal and Drinks",
+      "image": "assets/images/item3.jpg",
+      "price": 70.60,
+      "description": "Combo meal including wraps, fries, and your choice of drinks.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. \nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+      "type": "Main Course",
+      "isTrending": false,
+      "preparation": [
+        { "label": "Time", "value": "40 Minutes" },
+        { "label": "Serving Size", "value": 4 }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "25 Piece Sushi Boat with Three Sides",
+      "image": "assets/images/item4.jpg",
+      "price": 49.95,
+      "description": "Combo meal including wraps, fries, and your choice of drinks.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. \nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+      "type": "See Food",
+      "isTrending": false,
+      "preparation": [
+        { "label": "Time", "value": "50 Minutes" },
+        { "label": "Serving Size", "value": 3 }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "25 Piece Sushi Boat with Three Sides",
+      "image": "assets/images/item2.jpg",
+      "price": 80.9,
+      "description": "A variety of fresh nigiri and maki rolls with ginger and wasabi.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. \nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+      "type": "Japanese",
+      "isTrending": true,
+      "preparation": [
+        { "label": "Time", "value": "30 Minutes" },
+        { "label": "Serving Size", "value": 2 }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Shared Meal and Drinks",
+      "image": "assets/images/item3.jpg",
+      "price": 70.60,
+      "description": "Combo meal including wraps, fries, and your choice of drinks.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. \nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+      "type": "Main Course",
+      "isTrending": true,
+      "preparation": [
+        { "label": "Time", "value": "40 Minutes" },
+        { "label": "Serving Size", "value": 4 }
+      ]
+    }
+  ],
+  "atmosphere_images": [
+    "assets/images/slider1.jpg",
+    "assets/images/slider2.jpg",
+    "assets/images/slider1.jpg"
+  ]
+}
